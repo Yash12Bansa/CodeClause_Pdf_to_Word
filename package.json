@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pdftron/pdfnet-node": "^10.0.0"
+  }
+}
